@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Enter</string>
+    <string name="appwidget_text">OPEN DOOR</string>
+    <string name="add_widget">Add widget</string>
+    <string name="app_widget_description">Provides a button to open the door.</string>
+</resources>
